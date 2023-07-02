@@ -22,7 +22,7 @@
 /* ++++++++++ GLOBAL VARIABLES ++++++++++ */
 const char menuBanner[] = "\n\
                                  Final Project     \n\
-Student: Daniel Petrovich                            Professor: Benedict Redson\n\
+Student: Daniel Petrovich                            Professor: X\n\
 \n\
 \n\
 		Wake up Neo...The\n\
