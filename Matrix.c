@@ -5,10 +5,10 @@
 
 /*###############################################################################*\
   #   ASSIGNMENT:  Final Project - Matrix Operations/Transformations            #
-  #    PROFESSOR:  Benedict Redson                                              #
+  #    PROFESSOR:  X                                                            #
   #     DUE DATE:  25.12.2019                                                   #
   #                                                                             # 
-  #       AUTHOR:  Danijel Petrovic                                             #
+  #       AUTHOR:  Daniel Petrovich                                             #
   #        EMAIL:  danielthe@cyberdude.com                                      #
   #         DATE:  24.12.2019                                                   #
   # INDEX NUMBER:  2019/230364                                                  #
